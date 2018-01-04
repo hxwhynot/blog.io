@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 浅谈Puppet、Chef、Ansible和SaltStack四大运维管理工具
-date: 2018-1-04
+date: 2018-01-04
 categories: blog
 tags: [标签一,标签二]
 description: 文章金句。
