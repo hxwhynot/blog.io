@@ -1,6 +1,6 @@
 ---
 layout: post
-title: puppet技术概述
+title: 浅谈Puppet、Chef、Ansible和SaltStack四大运维管理工具
 date: 2015-3-02
 categories: blog
 tags: [标签一,标签二]
